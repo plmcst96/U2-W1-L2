@@ -252,6 +252,10 @@ iframe {
     width: 50%;
     margin-inline: -2px;
     vertical-align: middle;
+    height: 267px;
+  }
+  section p {
+    margin-top: 1.2em;
   }
 
   iframe {
